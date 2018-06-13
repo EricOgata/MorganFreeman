@@ -1,0 +1,31 @@
+img {
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+}
+
+p {
+	font-family: "Raleway";
+	font-size: 35px;
+	font-weight: 800;
+	margin-left: 1.66%;
+	margin-right: 1.66%;	
+}
+
+.divisorBottom{
+	border-bottom: 2px solid #F1F1F1;
+	padding-bottom: 20px;
+}
+
+.quote{
+	text-align: center;
+	font-size: 15px;
+}
+.textUppercase{
+	text-transform: uppercase;
+}
+
+.footer{
+	font-size: 15px;
+	float: bottom;
+}
